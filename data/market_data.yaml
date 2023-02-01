@@ -1,0 +1,288 @@
+market:
+- date: '4/10/2022'
+  products:
+    - 'eggs'
+    - 'shampoo'
+    - 'sausages'
+    - 'hotdog bread'
+  price:
+    - 1.99
+    - 6.08
+    - 3.34
+    - 1.68
+- date: '6/10/2022'
+  products:
+    - 'wipe'
+    - 'milk'
+    - 'bananas'
+    - 'bread slices'
+  price:
+    - 3.77
+    - 1.20
+    - 2.43
+    - 1.18
+- date: '10/10/2022'
+  products:
+    - 'milk'
+    - 'cheese slices'
+  price:
+    - 1.20
+    - 2.49
+- date: '17/10/2022'
+  products:
+    - 'mayo'
+    - 'salami'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 2.99
+    - 1.99
+    - 1.20
+    - 1.18
+- date: '24/10/2022'
+  products:
+    - 'eggs'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 1.99
+    - 1.20
+    - 1.18
+- date: '31/10/2022'
+  products:
+    - 'mayo'
+    - 'banana chips'
+    - 'corn'
+    - 'cheese slices'
+    - 'salami'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 2.99
+    - 1.41
+    - 2.39
+    - 2.49
+    - 1.99
+    - 1.20
+    - 1.18
+- date: '2/11/2022'
+  products:
+    - 'chicken'
+    - 'tuna'
+    - 'yoghurt'
+    - 'milk'
+    - 'banana chips'
+    - 'banana chips'
+  price:
+    - 4.02
+    - 1.76
+    - 3.49
+    - 1.20
+    - 1.41
+    - 1.41
+- date: '7/11/2022'
+  products:
+    - 'sausages'
+    - 'banana chips'
+    - 'banana chips'
+    - 'chicken'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 3.41
+    - 1.41
+    - 1.41
+    - 4.02
+    - 1.20
+    - 1.18
+- date: '9/11/2022'
+  products:
+    - 'eggs'
+    - 'apples'
+    - 'milk'
+  price:
+    - 1.99
+    - 1.62
+    - 1.20
+- date: '14/11/2022'
+  products:
+    - 'banana chips'
+    - 'banana chips'
+    - 'cheese slices'
+    - 'salami'
+    - 'apples'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 1.41
+    - 1.41
+    - 2.49
+    - 1.99
+    - 1.62
+    - 1.20
+    - 1.18
+- date: '16/11/2022'
+  products:
+    - 'tuna'
+    - 'eggs'
+    - 'milk'
+  price:
+    - 1.76
+    - 1.99
+    - 1.20
+- date: '21/11/2022'
+  products:
+    - 'pancake mix'
+    - 'tuna'
+    - 'banana chips'
+    - 'banana chips'
+    - 'chicken'
+    - 'apples'
+    - 'barilla'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 1.66
+    - 1.76
+    - 1.41
+    - 1.41
+    - 4.02
+    - 1.62
+    - 2.78
+    - 1.20
+    - 1.18
+- date: '23/11/2022'
+  products:
+    - 'eggs'
+    - 'milk'
+  price:
+    - 1.99
+    - 1.20
+- date: '3/12/2022'
+  products:
+    - 'chicken'
+    - 'mayo'
+    - 'tuna'
+    - 'tuna'
+    - 'cheese slices'
+    - 'salami'
+    - 'apples'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 4.02
+    - 3.99
+    - 1.88
+    - 1.88
+    - 2.49
+    - 2.85
+    - 1.62
+    - 1.20
+    - 1.18
+- date: '5/12/2022'
+  products:
+    - 'chicken'
+    - 'yoghurt'
+    - 'banana chips'
+    - 'banana chips'
+    - 'apples'
+    - 'milk'
+  price:
+    - 4.02
+    - 3.49
+    - 1.41
+    - 1.41
+    - 1.62
+    - 1.20
+- date: '7/12/2022'
+  products:
+    - 'pasta'
+    - 'barilla'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 0.75
+    - 2.78
+    - 1.20
+    - 1.18
+- date: '12/12/2022'
+  products:
+    - 'chicken'
+    - 'tuna'
+    - 'cheese slices'
+    - 'salami'
+    - 'apples'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 4.02
+    - 1.88
+    - 2.49
+    - 1.99
+    - 1.62
+    - 1.20
+    - 1.18
+- date: '24/01/2023'
+  products:
+    - 'chicken'
+    - 'mayo'
+    - 'banana chips'
+    - 'banana chips'
+    - 'pasta'
+    - 'cheese slices'
+    - 'salami'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 4.02
+    - 4.11
+    - 1.41
+    - 1.41
+    - 0.75
+    - 2.29
+    - 2.85
+    - 1.20
+    - 1.18
+- date: '27/01/2023'
+  products:
+    - 'sausages'
+    - 'eggs'
+    - 'milk'
+    - 'apples'
+    - 'bread slices'
+  price:
+    - 3.79
+    - 2.60
+    - 1.20
+    - 1.60
+    - 1.18
+- date: '28/01/2023'
+  products:
+    - 'pancake mix'
+    - 'tuna'
+    - 'beef burger'
+    - 'frozen fries'
+    - 'mustard'
+    - 'barilla'
+    - 'milk'
+  price:
+    - 1.83
+    - 1.88
+    - 3.4
+    - 2.29
+    - 2.60
+    - 2.78
+    - 1.20
+- date: '31/01/2023'
+  products:
+    - 'chicken'
+    - 'pasta'
+    - 'eggs'
+    - 'milk'
+    - 'bread slices'
+  price:
+    - 4.02
+    - 0.75
+    - 2.60
+    - 1.20
+    - 1.18
